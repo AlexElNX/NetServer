@@ -1,0 +1,15 @@
+D:\Programming\Network Programming\NetServer\bin\Debug\net9.0\NetServer.exe
+D:\Programming\Network Programming\NetServer\bin\Debug\net9.0\NetServer.deps.json
+D:\Programming\Network Programming\NetServer\bin\Debug\net9.0\NetServer.runtimeconfig.json
+D:\Programming\Network Programming\NetServer\bin\Debug\net9.0\NetServer.dll
+D:\Programming\Network Programming\NetServer\bin\Debug\net9.0\NetServer.pdb
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.AssemblyInfoInputs.cache
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.AssemblyInfo.cs
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.csproj.CoreCompileInputs.cache
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.dll
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\refint\NetServer.dll
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.pdb
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.genruntimeconfig.cache
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\ref\NetServer.dll
+D:\Programming\Network Programming\NetServer\obj\Debug\net9.0\NetServer.sourcelink.json
